@@ -15,10 +15,10 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA4OjU2OjExIEFNJmhhc2hfdmFsdWU9Y1N3dXRuSVdEeXpPR1NiQ0VPY1MyZz09JnZhbGlkbWludXRlcz02MCZpZD01|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA4OjU2OjExIEFNJmhhc2hfdmFsdWU9Y1N3dXRuSVdEeXpPR1NiQ0VPY1MyZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/MG60gZjn/1000016330.png",Bijoy Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA5OjE3OjQyIEFNJmhhc2hfdmFsdWU9cGhMOHpVMXovQUM1RktNNjJDVkIwdz09JnZhbGlkbWludXRlcz02MCZpZD01|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/bijoy00.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA5OjE3OjQyIEFNJmhhc2hfdmFsdWU9cGhMOHpVMXovQUM1RktNNjJDVkIwdz09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/hjGrQ4SH/svg.png",Mohona Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA5OjMwOjEyIEFNJmhhc2hfdmFsdWU9MVF5SXgweHpLaUFWMWE2QWtIb2o2QT09JnZhbGlkbWludXRlcz00MA==|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA5OjMwOjEyIEFNJmhhc2hfdmFsdWU9MVF5SXgweHpLaUFWMWE2QWtIb2o2QT09JnZhbGlkbWludXRlcz00MA==
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/rmFkd4RD/Bangla-TV-logo-svg.png",Bangla Tv
+https://cdn.ghuddi.live/tvpage/Bangla_TV_BD/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8?nimblesessionid=733&_HLS_msn=80939&_HLS_part=6
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
