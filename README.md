@@ -25,8 +25,8 @@ https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8?sessId=3284465
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/XN25QZd6/images.jpg",Anondo Tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSAxMjoyMjo1MyBQTSZoYXNoX3ZhbHVlPXVqVnlSV1NrUGFtMWR5YkNObHVlZlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ%3D%3D|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSAxMjoyMjo1MyBQTSZoYXNoX3ZhbHVlPXVqVnlSV1NrUGFtMWR5YkNObHVlZlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ%3D%3D
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/7PFGLbGs/IMG-20251019-211607.jpg",Sohag Khan
+http://xtv.ooo/live/49435467/94435467/167590.ts
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
