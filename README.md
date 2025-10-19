@@ -19,6 +19,16 @@ https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA5OjMwOjEyIEFNJmhhc2hfdmFsdWU9MVF5SXgweHpLaUFWMWE2QWtIb2o2QT09JnZhbGlkbWludXRlcz00MA==|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA5OjMwOjEyIEFNJmhhc2hfdmFsdWU9MVF5SXgweHpLaUFWMWE2QWtIb2o2QT09JnZhbGlkbWludXRlcz00MA==
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/gkfzNd0S/870px-Boishakhi-TV-logo-svg.png",Boishakhi tv
 https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSAxMDo1NjoyNCBBTSZoYXNoX3ZhbHVlPUNsdkZQLzI3TDJGcUtQU2toaXJSZVE9PSZ2YWxpZG1pbnV0ZXM9NDA%3D|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSAxMDo1NjoyNCBBTSZoYXNoX3ZhbHVlPUNsdkZQLzI3TDJGcUtQU2toaXJSZVE9PSZ2YWxpZG1pbnV0ZXM9NDA%3D
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qvxZ5XLp/1080px-Logo-of-Deepto-TV-svg.png",Deepto Tv
+https://byphdgllyk.gpcdn.net/hls/DeeptoTV/0_1/index.m3u8?sessId=3284465
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/J0gWt3gC/879px-svg.png", Asian Tv
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/XN25QZd6/images.jpg",Anondo Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSAxMjoyMjo1MyBQTSZoYXNoX3ZhbHVlPXVqVnlSV1NrUGFtMWR5YkNObHVlZlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ%3D%3D|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSAxMjoyMjo1MyBQTSZoYXNoX3ZhbHVlPXVqVnlSV1NrUGFtMWR5YkNObHVlZlE9PSZ2YWxpZG1pbnV0ZXM9NjAmaWQ9NQ%3D%3D
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
