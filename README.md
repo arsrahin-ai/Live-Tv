@@ -5,14 +5,12 @@ https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/355ba051
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/Yq1vYRKb/images-2.jpg",Sangsad Bd
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo=",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/TYWS11Sf/images-3.jpg",NTV
+https://ythls.armelin.one/channel/UC0V3IJCnr6ZNjB9t_GLhFFA.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/1zpV3G0f/Ekushey-Television-Logo-svg.png",Ekushey Tv
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/qR1spc0G/1000016325.jpg",My Tv
+https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA4OjQ2OjE2IEFNJmhhc2hfdmFsdWU9MGNWbE1BTzZYQ2lJWlNjay91RkFYQT09JnZhbGlkbWludXRlcz02MCZpZD01|Referer=https://statiics.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTkvMjAyNSA4OjQ2OjE2IEFNJmhhc2hfdmFsdWU9MGNWbE1BTzZYQ2lJWlNjay91RkFYQT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
