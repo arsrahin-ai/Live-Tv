@@ -39,10 +39,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/YC0v5N5m/1000016406.png",Gaan Bangla Tv
 https://tplay.live/originals/bengali-beats/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/d1VQCJJ9/1000016407.jpg",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/rsgPrLFn/1000016409.jpg", Movie Bangla Tv
+http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
