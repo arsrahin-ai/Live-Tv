@@ -43,8 +43,8 @@ https://tplay.live/originals/bengali-beats/index.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/rsgPrLFn/1000016409.jpg", Movie Bangla Tv
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/DZSrgkgY/1000016410.png", Bangla Tv
+https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
