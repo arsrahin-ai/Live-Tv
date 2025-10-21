@@ -64,15 +64,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/k4CvctLk/1000016432.png",Star Jalsha HD
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
-#EXTINF:-1 group-title="India Bangla" tvg-logo="",
-
-#EXTINF:-1 group-title="India Bangla" tvg-logo="",
-
-#EXTINF:-1 group-title="India Bangla" tvg-logo="",
-
-#EXTINF:-1 group-title="India Bangla" tvg-logo="",
-
+http://b1g.uk/live/123456/1234567/14154.ts
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/x8pFFBpB/1000016447.webp",Zee Bangla HD
+http://b1g.uk/live/123456/1234567/16907.ts
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/43TZ5h9g/1000016448.png", Colors Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/v8pQBjZ4/1000016449.png",Sony Aath
+http://b1g.uk/live/123456/1234567/164451.ts
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/d0y04Y3Q/1000016467.jpg",Akash Aath
+http://b1g.uk/live/123456/1234567/20737.ts
 #EXTINF:-1 group-title="India Bangla" tvg-logo="",
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="",
