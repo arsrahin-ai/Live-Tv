@@ -62,14 +62,27 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 #EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/zX5zwDtV/1000016430.png",Independent Tv
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 group-title="Bangla News" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangla News" tvg-logo="",
+#EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/k4CvctLk/1000016432.png",Star Jalsha HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
+
+#EXTINF:-1 group-title="India Bangla" tvg-logo="",
