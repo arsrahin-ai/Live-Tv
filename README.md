@@ -41,19 +41,30 @@ https://ythls.armelin.one/channel/UCqyt55f3byoK8rjgO0LBe4Q.m3u8
 https://tplay.live/originals/bengali-beats/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/d1VQCJJ9/1000016407.jpg",Me Tv
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/rsgPrLFn/1000016409.jpg", Movie Bangla Tv
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/rsgPrLFn/1000016409.jpg",Movie Bangla Tv
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/DZSrgkgY/1000016410.png", Bangla Tv
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.postimg.cc/DZSrgkgY/1000016410.png",Bangla Tv
 https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/NG7m4Sjn/1000016423.png",BTV News
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/wMHWrNJY/1000016424.jpg",News 24
+https://ythls.armelin.one/channel/UCb2O5Uo4a26CdTE7_2QA-jA.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/RhBMbgXM/1000016425.png",Channel 24
+https://ythls.armelin.one/channel/UCHLqIOMPk20w-6cFgkA90jw.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/4dF66hPC/1000016426.png",ATN News
+https://ythls.armelin.one/channel/UC9Rgo0CrNyd7OWliLekqqGA.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/fRwGyJHy/1000016427.png",DBC News
+https://tvsen6.aynaott.com/dbcnews/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/Wz5M7YPB/1000016428.png",Jamuna Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/Jh7HpcpM/1000016429.png",Somoy Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.postimg.cc/zX5zwDtV/1000016430.png",Independent Tv
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="",
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
-
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="",
+#EXTINF:-1 group-title="Bangla News" tvg-logo="",
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="",
 
