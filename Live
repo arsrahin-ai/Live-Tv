@@ -69,9 +69,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/k4CvctLk/1000016432.png",Star Jalsha HD
-http://103.240.44.26/Star-Jasha-HD/index.fmp4.m3u8
+https://livetvpro.vercel.app/api/m3u8-proxy?url=https%3A%2F%2Fyupptvcatchupire.yuppcdn.net%2Fpreview%2Fstarjalsha%2F1800.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/x8pFFBpB/1000016447.webp",Zee Bangla HD
-http://103.240.44.26/Zee-Bangla-HD/index.fmp4.m3u8
+https://livetvpro.vercel.app/api/m3u8-proxy?url=https%3A%2F%2Fyupptvcatchupire.yuppcdn.net%2Fpreview%2Fzeebangla%2F2500.m3u8
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/43TZ5h9g/1000016448.png", Colors Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/2500.m3u8?hdnts=
 #EXTINF:-1 group-title="India Bangla" tvg-logo="https://i.postimg.cc/v8pQBjZ4/1000016449.png",Sony Aath
